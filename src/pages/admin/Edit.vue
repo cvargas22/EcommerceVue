@@ -45,4 +45,4 @@
       'product-form': ProductFrom
     }
   }
-  </script>
+</script>
