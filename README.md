@@ -20,9 +20,11 @@ npm run build --report
 
 ## API
 
+```
 # install dependencies
 npm install
 
 # run API
 npm start
+```
 
