@@ -1,6 +1,6 @@
-# scotch-store
+# ECommerce Vue
 
-> Mini e-commerce project
+> Mini proyecto e-commerce con Vue y Mongo
 
 ## Build Setup
 
@@ -18,4 +18,11 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## API
+
+# install dependencies
+npm install
+
+# run API
+npm start
+
